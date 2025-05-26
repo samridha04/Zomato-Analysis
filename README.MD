@@ -67,6 +67,8 @@ The primary objective of this project is to analyze Zomato’s sales, user demog
 - 👥 **Top Cities by Active Users**:
   - Bikaner, Other, Noida-1
 
+
+
 ---
 
 ## 🛠 Tools Used
