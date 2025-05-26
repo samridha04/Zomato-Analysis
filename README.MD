@@ -2,7 +2,7 @@
 
 ## 📁 Project Overview
 
-This Power BI dashboard visualizes Zomato’s business performance across various cities. It includes insights into sales, user activity, food categories, and customer demographics, helping stakeholders make data-driven decisions to enhance customer engagement and city-level strategies.
+The primary objective of this project is to analyze Zomato’s sales, user demographics, and city-level performance using an interactive Power BI dashboard. By leveraging visualization techniques and filters, the dashboard provides business intelligence to understand trends, performance, and customer behavior patterns across different cities and food categories, helping stakeholders make data-driven decisions to enhance customer engagement and city-level strategies.
 
 ---
 
