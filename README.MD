@@ -32,6 +32,8 @@ The primary objective of this project is to analyze Zomato’s sales, user demog
 
 ## 🧠 Insights
 
+![Dashboard 1](pictures/1.png)
+
 ### 🔹 Page 1: Sales Overview
 
 - 🥇 **Top City by Sales**: Tirupati (₹42.5M)
