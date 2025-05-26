@@ -46,6 +46,8 @@ The primary objective of this project is to analyze Zomato’s sales, user demog
   - 2019: ₹0.34B
   - 2020: ₹0.14B (drop observed)
 
+![Dashboard 2](pictures/2.png)
+
 ---
 
 ### 🔹 Page 2: User Demographics
@@ -55,6 +57,8 @@ The primary objective of this project is to analyze Zomato’s sales, user demog
 - 🧑‍🤝‍🧑 **User Count by Age**:
   - Age 25: 14.5K users (highest)
   - Majority of users fall between ages 22–28
+
+![Dashboard 3](pictures/3.png)
 
 ---
 
@@ -67,7 +71,7 @@ The primary objective of this project is to analyze Zomato’s sales, user demog
 - 👥 **Top Cities by Active Users**:
   - Bikaner, Other, Noida-1
 
-
+![Dashboard 4](pictures/4.png)
 
 ---
 
